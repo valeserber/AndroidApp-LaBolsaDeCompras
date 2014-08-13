@@ -12,4 +12,4 @@ It also supports english and spanish.
 
 ![alt initial](http://s15.postimg.org/o9x6gz2m3/2014_06_26_15_39_55.png "Initial")
 
-![alt initial](http://s10.postimg.org/4ii9600y1/2014_06_26_15_39_55.png "Initial")
+![alt initial](http://s13.postimg.org/mu51vut07/2014_06_26_15_39_55.png "Initial")
