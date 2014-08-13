@@ -9,3 +9,5 @@ its state.
 It supports cell-phones and tablets, changing its layout
 accordingly. 
 It also supports english and spanish.
+
+![alt initial](http://postimg.org/image/g4f4ited3/ "Initial")
