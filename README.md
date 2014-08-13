@@ -10,4 +10,4 @@ It supports cell-phones and tablets, changing its layout
 accordingly. 
 It also supports english and spanish.
 
-![alt initial](http://postimg.org/image/g4f4ited3/ "Initial")
+![alt initial](http://s15.postimg.org/o9x6gz2m3/2014_06_26_15_39_55.png "Initial")
