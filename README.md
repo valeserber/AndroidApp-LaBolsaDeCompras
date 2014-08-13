@@ -1,5 +1,5 @@
 ##La Bolsa De Compras
-##Android App
+#Android App
 
 Android companion app of an online shopping web page:
 http://eiffel.itba.edu.ar/hci/2014Q1/g3/.
