@@ -13,3 +13,7 @@ It also supports english and spanish.
 ![alt image](http://s7.postimg.org/wzw3tc4pn/2014_06_26_15_39_55.png "Image")
 
 ![alt image](http://s30.postimg.org/h9dqembc1/2014_06_26_15_41_20.png "Image")
+
+![alt image](http://s2.postimg.org/i0a9u2jcp/2014_06_26_15_47_33.png "Image")
+
+![alt image](http://s27.postimg.org/ve6mkdhsj/2014_06_26_16_02_52.png "Image")
