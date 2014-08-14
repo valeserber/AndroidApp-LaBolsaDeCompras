@@ -10,5 +10,5 @@ It supports cell-phones and tablets, changing its layout
 accordingly. 
 It also supports english and spanish.
 
-![alt image](http://s10.postimg.org/4ii9600y1/2014_06_26_15_39_55.png "Image")
+![alt image](http://s7.postimg.org/wzw3tc4pn/2014_06_26_15_39_55.png "Image")
 ![alt image](http://s30.postimg.org/h9dqembc1/2014_06_26_15_41_20.png "Image")
